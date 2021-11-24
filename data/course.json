@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "38d2d00b-39d5-3c79-d79a-99be1e3dd72a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Taxes and Business Strategy",
+  "course_description": "Traditional finance and other business courses analyze a broad spectrum of factors affecting business decision-making but typically give little systematic consideration to the role of taxes. In contrast, traditional tax accounting courses concentrate on administrative issues while ignoring the richness of the context in which tax factors operate. The objective of the course is to bridge this gap by providing a framework for recognizing tax planning opportunities and applying basic principles of tax strategy.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.518",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
